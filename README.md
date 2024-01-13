@@ -1,2 +1,2 @@
 Error when trying to send API request in event listener
-<img src="https://prnt.sc/bbFTWsccaMOi">
+<a href="https://prnt.sc/bbFTWsccaMOi">click here to see error</a>
